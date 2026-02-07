@@ -1,0 +1,2 @@
+CREATE DATABASE emp;
+USE emp;
